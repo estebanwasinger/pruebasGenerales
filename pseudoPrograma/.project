@@ -3,6 +3,7 @@
 	<name>pseudoPrograma</name>
 	<comment></comment>
 	<projects>
+		<project>pruebaShared</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
